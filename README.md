@@ -1,2 +1,2 @@
 # DevLibraries
-Projeto onde desenvolvo algumas bibliotecas para fazer reduzir repetição de código
+Projeto onde desenvolvo algumas bibliotecas para reduzir repetição de código.
